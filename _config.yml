@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Andrés Ayala
+description: Personal website
+
+markdown: kramdown
+theme: minima
